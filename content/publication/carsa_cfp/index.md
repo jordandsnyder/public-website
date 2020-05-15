@@ -30,7 +30,7 @@ tags:
 - Program Evaluation
 
 title: A Winding Road to Peace Building - Longitudinal Outcomes of a Peace Intervention for Survivors and Génocidaires of the 1994 Genocide Against the Tutsi in Rwanda
-url_pdf: carsa_ajcp/carsa_cfp_ajcp.pdf
+url_pdf: carsa_cfp/carsa_cfp.pdf
 url_poster: ''
 url_project: ""
 url_slides: ""
