@@ -1,7 +1,7 @@
 ---
 abstract: The purpose of this cross‐sectional study was to examine conservation of resources (COR) theory in the context of armed conflict in Africa. Specifically, within the setting of ongoing chronic conflict in the eastern Democratic Republic of the Congo (DRC), we tested the COR theory prediction that resource loss contributes to various stress outcomes. Consistent with COR theory, resource loss predicted all four stress outcomes above and beyond the contribution of demographics, relocation experiences, and daily stressors; however, this effect was small, ΔR2 = .02–.06. The most consistent and strongest predictors of stress outcomes were daily stressors, βs = .42–.62; number of relocation experiences, βs = .33–.43; and psychosocial resource loss (e.g., loss of hope, meaning or purpose in life, intimacy with friends and family, physical health of family), βs = .17–.26. We discuss the findings with consideration of research on disasters generally and armed conflicts specifically. We also discuss implications for humanitarian interventions with conflict‐affected populations in Africa and beyond.
 authors:
-- admin
+- Jordan D.. Snyder
 - David Boan
 - Jamie Aten
 - Edward B. Davis

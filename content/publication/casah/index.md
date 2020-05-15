@@ -3,7 +3,7 @@ abstract: Despite the increased recognition of how neighborhood conditions bear 
 authors:
 - Ezer Kang
 - Cheung-Shuin Leu
-- admin
+- Jordan D. Snyder
 - Rueben N. Robbins
 - Amelia Bucek
 - Claude A. Mellins

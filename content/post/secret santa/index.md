@@ -1,7 +1,7 @@
 ---
 authors:
-- admin
-categories: []
+- Jordan D. Snyder
+categories: [r]
 date: "2019-12-01T00:00:00Z"
 draft: false
 featured: false
