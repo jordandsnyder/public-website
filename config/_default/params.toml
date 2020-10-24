@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Postdoc in clinical psychology interested in global mental health, social processes, and community-based work with conflict-affected populations."
+description = "Interested in clinical psychology interested in global mental health, social processes, and community-based work with conflict-affected populations."
 
 ############################
 ## Site Features

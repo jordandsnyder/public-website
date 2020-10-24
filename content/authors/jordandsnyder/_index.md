@@ -6,7 +6,7 @@ education:
   courses:
   - course: Post-Doctoral Fellowship in Psychosocial & Recovery-Oriented Services
     institution: San Diego VA Healthcare System/University of California, San Diego (UCSD) (APA-Accredited)
-    year: 2019 - Present
+    year: 2019 - 2020
   - course: Psy.D. in Clinical Psychology (APA-Accredited)
     institution: Wheaton College
     year: 2019
@@ -27,9 +27,9 @@ interests:
 - Program Development & Evaluation
 name: Jordan D. Snyder
 Organizations:
-- name: San Diego VA Healthcare System/University of California, San Diego (UCSD)
-  url: ""
-role: Postdoctoral Fellow & Visiting Scholar
+- name: Baptist Health Sciences University
+  url: "https://www.baptistu.edu/"
+role: Assistant Professor of Psychology
 social:
 - icon: envelope
   icon_pack: fas
